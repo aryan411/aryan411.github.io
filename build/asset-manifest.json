@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.039bf95e.css",
+    "main.js": "/static/js/main.ca0edc1d.js",
+    "static/media/AryanPatel2.png": "/static/media/AryanPatel2.2b1f990b356fc78de446.png",
+    "static/media/Hello.gif": "/static/media/Hello.d93720933c608f6178fb.gif",
+    "static/media/Aryan_Full_stack.pdf": "/static/media/Aryan_Full_stack.badc2b69074809093b62.pdf",
+    "static/media/postgresql.svg": "/static/media/postgresql.f32aa5bdb32f9b8926fc66b56b71d396.svg",
+    "static/media/mongodb.svg": "/static/media/mongodb.52300335cb1653f2a8fa072873a6cc17.svg",
+    "static/media/illustration.svg": "/static/media/illustration.cf4b7a67f23b684549c4f797c62b527a.svg",
+    "static/media/sass-icon.svg": "/static/media/sass-icon.8351205a93eafac2e392b26acf7580e1.svg",
+    "static/media/aws.svg": "/static/media/aws.3dc6e83c8f57a34a5de9a4f090d9e47a.svg",
+    "static/media/redis.svg": "/static/media/redis.aa5c939c4b81e5573e47f3aea2bd2907.svg",
+    "static/media/node-icon.svg": "/static/media/node-icon.3dc364b8e9beb3561620274aea4f0844.svg",
+    "static/media/typescript-icon.svg": "/static/media/typescript-icon.17d5e87eac2c9d1dc722ce1e0b60d5df.svg",
+    "static/media/java.svg": "/static/media/java.65e4380863bb67e6a6248b238c7774be.svg",
+    "static/media/react-icon.svg": "/static/media/react-icon.f1484e295933af0e748d6a01b05a8361.svg",
+    "index.html": "/index.html",
+    "static/media/nextjs.svg": "/static/media/nextjs.4cec2808c5c0af42419033f61d516ffd.svg",
+    "static/media/github.svg": "/static/media/github.d344c0fc70ddfb6de253ddc40adcb086.svg",
+    "static/media/email-icon.svg": "/static/media/email-icon.a83578f914460e952501546655b76165.svg",
+    "static/media/external-link.svg": "/static/media/external-link.74ce2401d684101cc83125c6dac8ce9c.svg",
+    "static/media/html-icon.svg": "/static/media/html-icon.ebfc51e406097a90691ab82f1aa72db3.svg",
+    "static/media/css-icon.svg": "/static/media/css-icon.60a6c50d5a470990f63ee17a3bbd9178.svg",
+    "static/media/spring.svg": "/static/media/spring.163d115dfcbe114ada371e05cc3a8f0c.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.4f00d78f67f451cf01173f7418aa186f.svg",
+    "static/media/js-icon.svg": "/static/media/js-icon.ffcf56dc5498f7bbbec802191c740e5f.svg",
+    "static/media/vue-icon.svg": "/static/media/vue-icon.c286d2da48ffbf281f407b0c4c94271f.svg",
+    "static/media/file-type-angular.svg": "/static/media/file-type-angular.ba3c21407a6846f51a7aead25d8644f0.svg",
+    "main.039bf95e.css.map": "/static/css/main.039bf95e.css.map",
+    "main.ca0edc1d.js.map": "/static/js/main.ca0edc1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.039bf95e.css",
+    "static/js/main.ca0edc1d.js"
+  ]
+}
