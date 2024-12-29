@@ -11,8 +11,8 @@ export function Project() {
     <Container id="project">
       <h1>My Projects</h1>
       <div className="projects">
-        {projects.map(project => (
-          <ScrollAnimation animateIn="flipInX" key={project.id}>
+        {projects.map((project) => (
+          <ScrollAnimation animateIn="flipInX" key={project.id.toString()}>
             <div className="project">
               <header>
                 <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b" strokeWidth="1" strokeLinecap="round" strokeLinejoin="round">
