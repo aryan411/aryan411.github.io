@@ -5,9 +5,11 @@ import Illustration from "../../assets/illustration.svg";
 import { NavHashLink } from "react-router-hash-link";
 import linkedin from "../../assets/linkedin.svg";
 import githubIcon from "../../assets/github.svg";
+import leetCodeIcon from "../../assets/leetcode.svg";
 import Hello from "../../assets/Hello.gif";
 import {
   ARYAN_GITHUB_PROFILE,
+  ARYAN_LEETCODE_PROFILE,
   ARYAN_LINKEDIN_PROFILE,
 } from "../../utilites/constant";
 export function Hero() {
@@ -42,6 +44,9 @@ export function Hero() {
             </a>
             <a href={ARYAN_GITHUB_PROFILE} target="_blank" rel="noreferrer">
               <img src={githubIcon} alt="GitHub" />
+            </a>
+            <a href={ARYAN_LEETCODE_PROFILE} target="_blank" rel="noreferrer">
+              <img src={leetCodeIcon} alt="GitHub" />
             </a>
           </div>
         </ScrollAnimation>

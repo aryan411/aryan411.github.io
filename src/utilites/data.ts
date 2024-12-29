@@ -80,3 +80,23 @@ export const experiences = [
     ],
   },
 ];
+
+export const projects = [
+  {
+    id: 1,
+    title: "Chess Game",
+    description:
+      "A modern chess game implementation inspired by Chess.com, featuring real-time gameplay and interactive board. Continuously adding new features and improvements.",
+    tech: ["React", "TypeScript", "CSS"],
+    github: "https://github.com/aryan411/chess-with-llm",
+    demo: "https://aryan411.github.io/chess-with-llm/",
+  },
+  {
+    id: 2,
+    title: "Micro Frontend Demo",
+    description:
+      "Demonstration of micro-frontend architecture using Module Federation with multiple Angular applications - Movie List and Search Movies",
+    tech: ["Angular", "Module Federation", "TypeScript", "Angular Material"],
+    github: "https://github.com/aryan411/movie-app",
+  },
+];

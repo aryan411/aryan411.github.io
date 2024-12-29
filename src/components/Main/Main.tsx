@@ -22,7 +22,7 @@ import postgreSQLIcon from "../../assets/postgresql.svg";
 import springIcon from "../../assets/spring.svg";
 import WorkExperience from "../Experience/Experience";
 import { experiences } from "../../utilites/data";
-
+import leetCodeIcon from "../../assets/leetcode.svg";
 export function Main() {
   return (
     <Container>
@@ -155,6 +155,11 @@ export function Main() {
                 weight: "400",
               },
               image: [
+                {
+                  src: leetCodeIcon,
+                  width: 20,
+                  height: 20,
+                },
                 {
                   src: angularIcon,
                   width: 20,

@@ -2,8 +2,10 @@ import { Container } from "./styles";
 import reactIcon from "../../assets/react-icon.svg";
 import linkedin from "../../assets/linkedin.svg";
 import githubIcon from "../../assets/github.svg";
+import leetCodeIcon from "../../assets/leetcode.svg";
 import {
   ARYAN_GITHUB_PROFILE,
+  ARYAN_LEETCODE_PROFILE,
   ARYAN_LINKEDIN_PROFILE,
 } from "../../utilites/constant";
 
@@ -24,6 +26,9 @@ export function Footer() {
         </a>
         <a href={ARYAN_GITHUB_PROFILE} target="_blank" rel="noreferrer">
           <img src={githubIcon} alt="GitHub" />
+        </a>
+        <a href={ARYAN_LEETCODE_PROFILE} target="_blank" rel="noreferrer">
+          <img src={leetCodeIcon} alt="LeetCode" />
         </a>
       </div>
     </Container>
