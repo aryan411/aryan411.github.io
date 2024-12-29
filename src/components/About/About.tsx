@@ -32,7 +32,10 @@ export function About() {
             lightweight, and scalable solutions. My experience includes
             developing seamless front-end interfaces, efficiently integrating
             micro-frontend for modularity, and optimizing performance to deliver
-            exceptional user experiences.
+            exceptional user experiences. I'm also deeply involved in
+            competitive programming, having solved over 100+ LeetCode problems
+            in just 2 weeks, covering various data structures and algorithms
+            including graphs, trees, arrays, and linked lists.
           </p>
         </ScrollAnimation>
         <ScrollAnimation
