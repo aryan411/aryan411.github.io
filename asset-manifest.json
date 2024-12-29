@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.039bf95e.css",
-    "main.js": "/static/js/main.ca0edc1d.js",
+    "main.js": "/static/js/main.c77d94d8.js",
     "static/media/AryanPatel2.png": "/static/media/AryanPatel2.2b1f990b356fc78de446.png",
     "static/media/Hello.gif": "/static/media/Hello.d93720933c608f6178fb.gif",
     "static/media/Aryan_Full_stack.pdf": "/static/media/Aryan_Full_stack.badc2b69074809093b62.pdf",
@@ -17,6 +17,7 @@
     "static/media/react-icon.svg": "/static/media/react-icon.f1484e295933af0e748d6a01b05a8361.svg",
     "index.html": "/index.html",
     "static/media/nextjs.svg": "/static/media/nextjs.4cec2808c5c0af42419033f61d516ffd.svg",
+    "static/media/leetcode.svg": "/static/media/leetcode.d97025c385b25098592cfcb8e14c3ef1.svg",
     "static/media/github.svg": "/static/media/github.d344c0fc70ddfb6de253ddc40adcb086.svg",
     "static/media/email-icon.svg": "/static/media/email-icon.a83578f914460e952501546655b76165.svg",
     "static/media/external-link.svg": "/static/media/external-link.74ce2401d684101cc83125c6dac8ce9c.svg",
@@ -28,10 +29,10 @@
     "static/media/vue-icon.svg": "/static/media/vue-icon.c286d2da48ffbf281f407b0c4c94271f.svg",
     "static/media/file-type-angular.svg": "/static/media/file-type-angular.ba3c21407a6846f51a7aead25d8644f0.svg",
     "main.039bf95e.css.map": "/static/css/main.039bf95e.css.map",
-    "main.ca0edc1d.js.map": "/static/js/main.ca0edc1d.js.map"
+    "main.c77d94d8.js.map": "/static/js/main.c77d94d8.js.map"
   },
   "entrypoints": [
     "static/css/main.039bf95e.css",
-    "static/js/main.ca0edc1d.js"
+    "static/js/main.c77d94d8.js"
   ]
 }
