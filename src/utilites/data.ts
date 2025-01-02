@@ -21,7 +21,7 @@ export const experiences = [
     ],
   },
   {
-    role: "Software Developer",
+    role: "Student Researcher",
     company: "WIMTACH",
     companyUrl: "https://wimtach.centennialcollege.ca/",
     startDate: "October 2022",
@@ -43,7 +43,7 @@ export const experiences = [
     role: "Frontend Developer",
     company: "Eccentric Engine",
     companyUrl: "https://weareeccentric.com/",
-    startDate: "May 2021",
+    startDate: "August 2021",
     endDate: "December 2021",
     overview:
       "Developed Angular web applications and integrated Razorpay for seamless payment processing for key automotive clients like Mahindra and Tata Motors.",
@@ -60,7 +60,7 @@ export const experiences = [
     company: "Augmented TechLabs",
     companyUrl: "https://www.augmentedtechlabs.com/",
     startDate: "July 2020",
-    endDate: "May 2021",
+    endDate: "August 2021",
     overview:
       "Developed an Angular-based application for a law firm to automate reporting and client management, improving efficiency and accuracy.",
     technologies: ["Angular", "Node.js", "MongoDB", "Express.js"],
