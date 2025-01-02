@@ -288,8 +288,8 @@ export function Main() {
       />
       <Hero></Hero>
       <About></About>
-      <Project></Project>
       <WorkExperience experiences={experiences} />
+      <Project></Project>
       <Contact></Contact>
     </Container>
   );
