@@ -4,7 +4,7 @@ export const experiences = [
     company: "VIRAL NATION",
     companyUrl: "https://www.viralnation.com/",
     startDate: "March 2023",
-    endDate: "June 2024",
+    endDate: "Present",
     overview:
       "Led the development of VN Empower, enhancing employee collaboration and social media engagement. Optimized system reliability and performance by 75% with technologies like Java, Spring Boot, and PostgreSQL.",
     technologies: [
